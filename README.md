@@ -9,6 +9,9 @@ Some of the code is for training and educaional purposed, some has been creted f
 - [x] Attractor Curve - City\
   Training script to demonstarte practical use of attractor's logic in urban environment.
 
+- [x] Attractor Curve - Panel\
+  Training script to demonstarte practical use of attractor's logic to create parametric openings on a surface.
+
 - [x] Generative Design - Views\
   Training script to demonstrate potential use of generative design.
 
