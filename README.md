@@ -1,5 +1,7 @@
 # Grasshopper Repo
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ivaylo-matov/grasshopper?color=yellow&label=release&style=for-the-badge)  ![GitHub repo file count](https://img.shields.io/github/directory-file-count/ivaylo-matov/grasshopper?color=red&style=for-the-badge)  ![GitHub repo size](https://img.shields.io/github/repo-size/ivaylo-matov/grasshopper?label=SIZE&style=for-the-badge)
+
 ## Some code for Grasshopper and Rhino.Inside.Revit
 Some of the code is for training and educaional purposes, some has been creted for live projets
 
