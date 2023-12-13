@@ -25,3 +25,5 @@ Some of the code is for training and educaional purposes, some has been creted f
 
 - [x] Generative Design - Optioneering\
   Script that generates a number of buildings with DNA similar to the Sears Tower. Uses optioneering interface to optimize floor area and evaluates overshadowing of nearby neighbours.
+
+- [ ] And more...
